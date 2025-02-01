@@ -1,4 +1,7 @@
-# ecommerce_empresa_x
-E-commerce feito para a empresa X, feito em PHP e MySQL. (curso Git/GitHub)
+# E-commerce empresa X
 
-# Teste 
+Vamos criar um e-commerce para a empresa X ksafnvosdnvasdnvlknxcvnxcjn
+
+## Funcionalidades 
+
+Checkout, Catálogo, home com banner 
