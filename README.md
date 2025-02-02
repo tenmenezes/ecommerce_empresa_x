@@ -51,6 +51,6 @@ print("Olá Mundo")
 
 ## Tarefas Não concluídas
 
-- [] css da pagina de contatos 
-- [] css do index
-- [] arquivo python
+- [ ] css da pagina de contatos 
+- [ ] css do index
+- [ ] arquivo python
