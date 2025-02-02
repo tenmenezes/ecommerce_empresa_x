@@ -35,7 +35,7 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 
 [Linkedin](https://www.linkedin.com/in/ten-menezes)
 
-## Código da função soma
+## Código Python
 
 ```Python
 
