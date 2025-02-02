@@ -13,3 +13,9 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 * JavaScript
 * PHP
 * MySQL 
+
+### Funcionalidades pendentes 
+
+1. Login de Administrador 
+2. Tabela de compras 
+3. PDV
