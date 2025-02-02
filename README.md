@@ -22,3 +22,7 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
     3. Manipulação dos dados do site
 2. Tabela de compras 
 3. PDV
+
+#### Imagem local
+
+![Logo Python](img/imgPython.png)
