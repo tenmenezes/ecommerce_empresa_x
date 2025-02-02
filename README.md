@@ -4,4 +4,12 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 
 ## Funcionalidades 
 
-Checkout, Catálogo, home com banner 
+**Checkout, *Catálogo*, home com banner**
+
+### Linguagens do projeto
+
+* HTML
+* CSS 
+* JavaScript
+* PHP
+* MySQL 
