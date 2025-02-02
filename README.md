@@ -26,3 +26,7 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 #### Imagem local
 
 ![Logo Python](img/imgPython.png)
+
+### Imagem externa
+
+![Logo PHP](https://w7.pngwing.com/pngs/999/225/png-transparent-indian-elephant-african-elephant-packages-stretch-film-disposable-tableware-elephant-border-mammal-cardboard-logo.png)
