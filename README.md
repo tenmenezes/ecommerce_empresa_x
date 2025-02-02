@@ -34,3 +34,11 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 ## Links interessantes
 
 [Linkedin](https://www.linkedin.com/in/ten-menezes)
+
+## Código da função soma
+
+```Python
+
+print("Olá Mundo")
+
+```
