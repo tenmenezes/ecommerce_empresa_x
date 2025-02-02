@@ -42,3 +42,15 @@ Vamos criar um **e-commerce** para a *empresa X* ksafnvosdnvasdnvlknxcvnxcjn
 print("Olá Mundo")
 
 ```
+
+## Tarefas concluídas 
+
+[x] CSS rodapé
+[x] página de contatos
+[x] index html
+
+## Tarefas Não concluídas
+
+[] css da pagina de contatos 
+[] css do index
+[] arquivo python
